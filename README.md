@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edis Ameti.
+- 👋 Hello, I’m Edis Ameti.
 - 👀 I’m interested in working on the most impressive project the world has ever seen!
 - 🌱 I’m currently learning html/css/js. Yeah I know, I have a long way to go.
 - 📫 How to reach me: edis7ameti@gmail.com
